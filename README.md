@@ -6,8 +6,6 @@ This is a repository consisting of all Open Source programs, Research Internship
 Feel Free to contribute.
 Please star and share this repo with your peers and community members!
 
-As I am from a tier 3 college, so the motive of this repo is to make unlimited possiblities/opportunities to the friends like me.
-
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
 # SOC-Programs
