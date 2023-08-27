@@ -1,6 +1,6 @@
 Hey everyone,
 
-I am Hariprasad, an engineering student of tier 3 college from India with a keen interest in Blockchain technology, AI, startups & business.
+I am Hariprasad, an engineering student from India with a keen interest in Blockchain technology, AI, startups & business.
 
 This is a repository consisting of all Open Source programs, Research Internships, OFF Campus hiring opportunities, Remote Job Boards, Hackathons and Communities to involve. 
 Feel Free to contribute.
